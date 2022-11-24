@@ -1,0 +1,3 @@
+Model\Product.class
+Controller\StockController.class
+MockDataReader\DataReader.class
